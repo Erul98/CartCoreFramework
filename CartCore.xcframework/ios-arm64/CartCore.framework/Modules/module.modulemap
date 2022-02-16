@@ -1,0 +1,6 @@
+framework module CartCore {
+    umbrella header "CartCore.h"
+
+    export *
+    module * { export * }
+}
